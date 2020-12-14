@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![An Orange](https://marketbasketfoods.com/wp-content/uploads/2014/02/oranges-01.jpg)
